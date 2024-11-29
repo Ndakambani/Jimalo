@@ -1,4 +1,4 @@
-huhname: Node.js CI
+huhname: James.js CI
 
 on:
   push:
